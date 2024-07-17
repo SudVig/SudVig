@@ -1,7 +1,6 @@
 <h1>Hi 👋, I'm Sudalai Vignesh</h1>
 <p>
-
-Hi there! 👋 I'm a passionate Web Developer 🌐 and Flutter Developer 📱. I enjoy crafting beautiful and functional web and mobile applications. With a strong foundation in both frontend and backend technologies, I aim to deliver seamless user experiences and efficient solutions</p>
+I'm a passionate Web Developer 🌐 and Flutter Developer 📱. I enjoy crafting beautiful and functional web and mobile applications. With a strong foundation in both frontend and backend technologies, I aim to deliver seamless user experiences and efficient solutions</p>
 <hr>
 
 <h3>Languages</h3>
