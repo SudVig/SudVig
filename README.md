@@ -1,7 +1,9 @@
 <h1>Hi 👋, I'm Sudalai Vignesh</h1>
-<p>A passionate Web Developer & Flutter Developer</p>
+<p>
 
-<h2>🚀 Languages and Tools I Use</h2>
+Hi there! 👋 I'm Sudalai Vignesh, a passionate Web Developer 🌐 and Flutter Developer 📱. I enjoy crafting beautiful and functional web and mobile applications. With a strong foundation in both frontend and backend technologies, I aim to deliver seamless user experiences and efficient solutions</p>
+<hr>
+
 <h3>Languages</h3>
 <p>
   <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
@@ -48,6 +50,4 @@
   <a target="_blank" href="https://www.instagram.com/__sudvig__" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=SudVig&show_icons=true&locale=en" alt="SudVig" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SudVig&" alt="SudVig" /></p>
-<p><img
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=SudVig&show_icons=true&locale=en&layout=compact" alt="SudVig" /><br><br><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SudVig&" alt="SudVig" />&nbsp;</p>
